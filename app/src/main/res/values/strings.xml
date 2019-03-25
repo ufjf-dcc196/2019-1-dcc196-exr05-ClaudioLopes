@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio5</string>
+    <string name="Vez_JogadorX">Vez do jogador X</string>
+    <string name="Vez_JogadorO">Vez do jogador O</string>
+    <string name="counterX">X venceu: </string>
+    <string name="counterO">O venceu: </string>
+</resources>
